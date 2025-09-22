@@ -5,7 +5,7 @@ import 'package:fago/screens/supabase/Authentication/signuppage.dart';
 import 'package:go_router/go_router.dart';
 
 final route = GoRouter(
-  initialLocation: '/onboarding',
+  initialLocation: '/HomePage',
   routes: [
     GoRoute(
       path: '/onboarding',
